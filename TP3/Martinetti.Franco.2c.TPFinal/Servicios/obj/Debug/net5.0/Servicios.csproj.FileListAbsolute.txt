@@ -1,0 +1,12 @@
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Servicios\bin\Debug\net5.0\Servicios.deps.json
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Servicios\bin\Debug\net5.0\Servicios.dll
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Servicios\bin\Debug\net5.0\Servicios.pdb
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Servicios\obj\Debug\net5.0\Servicios.csproj.AssemblyReference.cache
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Servicios\obj\Debug\net5.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Servicios\obj\Debug\net5.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Servicios\obj\Debug\net5.0\Servicios.AssemblyInfo.cs
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Servicios\obj\Debug\net5.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Servicios\obj\Debug\net5.0\Servicios.dll
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Servicios\obj\Debug\net5.0\refint\Servicios.dll
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Servicios\obj\Debug\net5.0\Servicios.pdb
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Servicios\obj\Debug\net5.0\ref\Servicios.dll

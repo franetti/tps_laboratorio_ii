@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entidades.dll": {}
+        }
+      },
+      "Servicios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Servicios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Servicios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entidades/1.0.0": {
+      "type": "project",
+      "path": "../Martinetti.Franco.2c.TPFinal/Entidades.csproj",
+      "msbuildProject": "../Martinetti.Franco.2c.TPFinal/Entidades.csproj"
+    },
+    "Servicios/1.0.0": {
+      "type": "project",
+      "path": "../Servicios/Servicios.csproj",
+      "msbuildProject": "../Servicios/Servicios.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "Entidades >= 1.0.0",
+      "Servicios >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Franco\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Franco\\Desktop\\Martinetti.Franco.2c.TPFinal\\Form1\\Vista.csproj",
+      "projectName": "Vista",
+      "projectPath": "C:\\Users\\Franco\\Desktop\\Martinetti.Franco.2c.TPFinal\\Form1\\Vista.csproj",
+      "packagesPath": "C:\\Users\\Franco\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Franco\\Desktop\\Martinetti.Franco.2c.TPFinal\\Form1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Franco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Franco\\Desktop\\Martinetti.Franco.2c.TPFinal\\Martinetti.Franco.2c.TPFinal\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Franco\\Desktop\\Martinetti.Franco.2c.TPFinal\\Martinetti.Franco.2c.TPFinal\\Entidades.csproj"
+            },
+            "C:\\Users\\Franco\\Desktop\\Martinetti.Franco.2c.TPFinal\\Servicios\\Servicios.csproj": {
+              "projectPath": "C:\\Users\\Franco\\Desktop\\Martinetti.Franco.2c.TPFinal\\Servicios\\Servicios.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

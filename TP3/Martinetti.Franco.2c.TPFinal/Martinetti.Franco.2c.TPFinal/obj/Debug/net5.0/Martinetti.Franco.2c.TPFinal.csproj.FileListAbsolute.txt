@@ -1,0 +1,12 @@
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Martinetti.Franco.2c.TPFinal\bin\Debug\net5.0\Martinetti.Franco.2c.TPFinal.deps.json
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Martinetti.Franco.2c.TPFinal\bin\Debug\net5.0\Martinetti.Franco.2c.TPFinal.dll
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Martinetti.Franco.2c.TPFinal\bin\Debug\net5.0\Martinetti.Franco.2c.TPFinal.pdb
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Martinetti.Franco.2c.TPFinal\obj\Debug\net5.0\Martinetti.Franco.2c.TPFinal.csproj.AssemblyReference.cache
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Martinetti.Franco.2c.TPFinal\obj\Debug\net5.0\Martinetti.Franco.2c.TPFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Martinetti.Franco.2c.TPFinal\obj\Debug\net5.0\Martinetti.Franco.2c.TPFinal.AssemblyInfoInputs.cache
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Martinetti.Franco.2c.TPFinal\obj\Debug\net5.0\Martinetti.Franco.2c.TPFinal.AssemblyInfo.cs
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Martinetti.Franco.2c.TPFinal\obj\Debug\net5.0\Martinetti.Franco.2c.TPFinal.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Martinetti.Franco.2c.TPFinal\obj\Debug\net5.0\Martinetti.Franco.2c.TPFinal.dll
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Martinetti.Franco.2c.TPFinal\obj\Debug\net5.0\refint\Martinetti.Franco.2c.TPFinal.dll
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Martinetti.Franco.2c.TPFinal\obj\Debug\net5.0\Martinetti.Franco.2c.TPFinal.pdb
+C:\Users\Franco\Desktop\Martinetti.Franco.2c.TPFinal\Martinetti.Franco.2c.TPFinal\obj\Debug\net5.0\ref\Martinetti.Franco.2c.TPFinal.dll
